@@ -10,4 +10,4 @@ Then, go to `cmd/main` and run the Go API:
 ```bash
 go run main.go
 ```
-Open [http://localhost:9010](http://localhost:9010) with your browser to see the database.
+Open [http://localhost:9010](http://localhost:9010) with your browser to access the database.
